@@ -23,3 +23,4 @@ print(str.endswith("hi"))
 # capitalise the first character of the string
 
 print(str.capitalize())
+
